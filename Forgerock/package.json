@@ -1,0 +1,17 @@
+{
+  "name": "ForgeRock",
+  "version": "0.0.1",
+  "description": "ForgeRock Tech Test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Andy Summers",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "connect-busboy": "0.0.2",
+    "express": "~4.16.2",
+    "moment": "^2.19.1",
+    "mysql": "^2.15.0"
+  }
+}
